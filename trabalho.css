@@ -1,0 +1,76 @@
+h1 {
+    color: rgb(42, 140, 67);
+    font-family: 'Lilita One', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+
+strong {
+    color: black;
+    font-family: 'Lilita One', cursive;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+
+#img_redondo {
+    height: 400px;
+    border-radius: 50%;
+    border: 5px solid black;
+
+}
+
+#saopaulo {   height: 180px;
+    width: 5000px;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15% ;
+    border-width: 5px;
+    border-color: black;
+ 
+}
+
+#messi {
+    height: 190px;
+
+    width: 5000px;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15% ;
+    border-width: 5px;
+    border-color: black;
+    
+
+    
+
+}
+
+#fernando {
+    height: 190px;
+
+    width: 5000px;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15% ;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+#tex{
+    text-align: left
+}
+
+#background-color{
+    background-color:blanchedalmond
+}
+
+#background {
+    background-color: blanchedalmond;
+}
+
+#color1{
+    background-color: yellow;
+}
