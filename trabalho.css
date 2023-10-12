@@ -65,11 +65,11 @@ font-family: 'Montserrat Alternates', sans-serif;
 }
 
 #background-color{
-    background-color:blanchedalmond
+    background-color: rgb(196, 172, 129);
 }
 
 #background {
-    background-color: blanchedalmond;
+    background-color: rgb(199, 172, 129);
 }
 
 #color1{
@@ -79,7 +79,25 @@ font-family: 'Montserrat Alternates', sans-serif;
 
 #header{
     background-image:url(imagens/mundodabola.png)
-    height: 100vh;
+    height 100vh;
     width: 100%;
 
+}
+
+#text.2 {
+    font-family: 'Lilita One', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+}
+
+
+#ft{
+    height: 190px;
+
+    width: 5000px;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15% ;
+    border-width: 2px;
+    
 }
